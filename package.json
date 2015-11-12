@@ -4,7 +4,7 @@
   "repository": "https://github.com/johnpapa/angular2-go",
   "scripts": {
     "tsc": "tsc -p src -w",
-    "start": "live-server --open=src"
+    "start": "live-server --port=8100 --open=src"
   },
   "engines": {
     "npm": ">=2.14.x"
